@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (3.3.0)
+  - EPContactsPicker (1.0.2)
+  - LinearProgressBar (1.0.0)
+  - R.swift (2.2.2):
+    - R.swift.Library (~> 2.1.0)
+  - R.swift.Library (2.1.0)
+  - SwitchLoader (0.0.1)
+  - VideoSplashKit (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - EPContactsPicker
+  - LinearProgressBar (from `https://github.com/PhilippeBoisney/LinearProgressBar.git`)
+  - R.swift
+  - SwitchLoader (~> 0.0.1)
+  - VideoSplashKit
+
+EXTERNAL SOURCES:
+  LinearProgressBar:
+    :git: https://github.com/PhilippeBoisney/LinearProgressBar.git
+
+CHECKOUT OPTIONS:
+  LinearProgressBar:
+    :commit: 11cda1df9ffbb07150424996c53ed15ddc72b87b
+    :git: https://github.com/PhilippeBoisney/LinearProgressBar.git
+
+SPEC CHECKSUMS:
+  Alamofire: 9054db4a1b1ca9e363223183e01cea380159a27c
+  EPContactsPicker: 38fcb880893b08df10758adb0941ea7e712b892a
+  LinearProgressBar: 11866ed667d95172ca5e966f816119c7a9d65833
+  R.swift: ed40b24d65ad70c6cf48a2f249a26a3e5a4a7bc0
+  R.swift.Library: e5e077ed04f6867a95676af491650091b23518e9
+  SwitchLoader: 6c4bbe4b5096206559306553098d1e0f01c8a166
+  VideoSplashKit: 0aa63d0bb37c5bd357de3e6a2a13dea5acad4d66
+
+PODFILE CHECKSUM: eb527c42d32a091df75e5ac3b856a4ee173b880a
+
+COCOAPODS: 1.0.0

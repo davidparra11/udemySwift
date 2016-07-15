@@ -1,0 +1,6 @@
+framework module Pods_placeapp {
+  umbrella header "Pods-placeapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
